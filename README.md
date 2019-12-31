@@ -6,3 +6,5 @@ Here's my first set of edits. This is done by Adam. The master of this temporary
 
 
 31DEC19 Morris: here's a commit from my mac.
+
+31DEC19 Morris: here's a second one. I'm going to try to connect this into the project I have.
